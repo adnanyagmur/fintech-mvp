@@ -1,3 +1,7 @@
+### I used public graph API and Binance API in this software
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### appearance of the site
+
+![image](https://user-images.githubusercontent.com/80180114/172028562-dbec971e-21b6-43a1-91de-19685dd23922.png)
+
+![image](https://user-images.githubusercontent.com/80180114/172028577-33fbcdff-7a29-436d-8d8e-048efd80902c.png)
+
+![image](https://user-images.githubusercontent.com/80180114/172028582-64107685-0846-427c-8292-d45d3af9c554.png)
+
+![image](https://user-images.githubusercontent.com/80180114/172028590-3aca09d1-382e-4be5-a90b-e8c7d560bbad.png)
+
+
