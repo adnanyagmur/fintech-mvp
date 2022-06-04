@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.e644f08c.js",
+    "static/media/grafik.png": "/static/media/grafik.b7ea5083d710e9dabceb.png",
+    "static/media/willuna.png": "/static/media/willuna.166b4e4bab46c6e48eef.png",
+    "static/media/grafik2.png": "/static/media/grafik2.b1353cfd57b682aeb3d6.png",
+    "static/media/usdt.png": "/static/media/usdt.c1d587669942a5e9bc47.png",
+    "static/media/logo.png": "/static/media/logo.546cad02b24bab23623e.png",
+    "static/media/czbinance.jpg": "/static/media/czbinance.8a5c8fa2755c1165fb34.jpg",
+    "static/media/cardano.jpg": "/static/media/cardano.2c0c8ec486dc2c28dcc8.jpg",
+    "static/media/barisesen.jpg": "/static/media/barisesen.d493eb94e7ef89c516a7.jpg",
+    "static/media/danheld.jpg": "/static/media/danheld.512a7b884f1669b9799c.jpg",
+    "static/media/shiba.png": "/static/media/shiba.297f66852d867d8bd8ea.png",
+    "static/media/sol.png": "/static/media/sol.f1951ed34dc6107f54c7.png",
+    "static/media/nft.jpg": "/static/media/nft.1c3e5db2b0114736c085.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.e644f08c.js.map": "/static/js/main.e644f08c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e644f08c.js"
+  ]
+}
